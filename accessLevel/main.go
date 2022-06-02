@@ -1,5 +1,7 @@
 package main
 
+// accessできる情報を絞る
+
 import (
 	gohttp "accessLevel/goHttp"
 	"fmt"
