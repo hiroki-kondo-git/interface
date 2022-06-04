@@ -3,8 +3,9 @@ package main
 // accessできる情報を絞る
 
 import (
-	gohttp "accessLevel/goHttp"
 	"fmt"
+
+	gohttp "github.com/hiroki-kondo-git/interface/accessLevel/goHttp"
 )
 
 func main() {
